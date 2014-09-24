@@ -1,4 +1,6 @@
 EbolaCoin
 =========
 
-EbolaCoin - The pandemic currency
+EbolaCoin - A contagious currency
+
+

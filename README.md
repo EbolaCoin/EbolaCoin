@@ -1,6 +1,6 @@
 EbolaCoin
 =========
 
-EbolaCoin - A contagious currency
+EbolaCoin: Fast. Stealthy. Viral.
 
 
